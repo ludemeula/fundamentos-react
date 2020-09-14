@@ -1,9 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Projeto criado para estudos de fundamentos do React.
-Utilizado no projeto: faker, react-virtualized
-Canais de estudo: 
-https://www.youtube.com/watch?v=XQxitgyZ_S4 (Cod3r Cursos)
+
+Utilizado no projeto: faker, react-virtualized.<br />
+
+Canais de estudo: .<br />
+https://www.youtube.com/watch?v=XQxitgyZ_S4 (Cod3r Cursos).<br />
+
 https://www.youtube.com/watch?v=UrgfPjX97Yg (LogRocket)
 
 
