@@ -4,9 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Utilizado no projeto: faker, react-virtualized.<br />
 
-Canais de estudo: .<br />
+Canais de estudo:<br />
 https://www.youtube.com/watch?v=XQxitgyZ_S4 (Cod3r Cursos).<br />
-
 https://www.youtube.com/watch?v=UrgfPjX97Yg (LogRocket)
 
 
