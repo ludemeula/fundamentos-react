@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Projeto criado para estudos de fundamentos do React.
+
+Utilizado no projeto: faker, react-virtualized.<br />
+
+Canais de estudo:<br />
+https://www.youtube.com/watch?v=XQxitgyZ_S4 (Cod3r Cursos).<br />
+https://www.youtube.com/watch?v=UrgfPjX97Yg (LogRocket)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,4 +74,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# fundamentos-react
